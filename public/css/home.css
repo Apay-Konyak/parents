@@ -7,8 +7,9 @@
 }
 
 body {
-  background: white;
-  /* background: linear-gradient(to bottom right, #3366cc, #ff8f33); */
+  background: linear-gradient(to bottom right, #3366cc, #ff8f33);
+  height:100vh;
+  background-repeat: no-repeat;
   background-size: cover;
 }
 

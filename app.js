@@ -25,7 +25,7 @@ app.set("view engine", "ejs");
 app.use(express.static("public"));
 mongoose
   .connect(
-    "mongodb+srv://Bangthai:428jesqb9t@cluster0.dkzah.mongodb.net/parentsFeedback",
+    "mongodb+srv://bangthai:428jesqb9t@cluster0.gyv4qie.mongodb.net/parentsFeedback",
     {
       useNewUrlParser: true,
       useUnifiedTopology: true,
